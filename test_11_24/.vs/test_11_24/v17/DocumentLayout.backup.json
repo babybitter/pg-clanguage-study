@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|solutionrelative:test_11_24\\demo11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|solutionrelative:test_11_24\\demo10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|solutionrelative:test_11_24\\demo9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|solutionrelative:test_11_24\\demo8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|solutionrelative:test_11_24\\demo7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|solutionrelative:test_11_24\\demo6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3757AF1E-C2C3-40C2-9603-432756385BEF}|test_11_24\\test_11_24.vcxproj|solutionrelative:test_11_24\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,19 +59,95 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "demo5.c",
-              "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo5.c",
-              "RelativeDocumentMoniker": "test_11_24\\demo5.c",
-              "ToolTip": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo5.c",
-              "RelativeToolTip": "test_11_24\\demo5.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "demo11.c",
+              "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo11.c",
+              "RelativeDocumentMoniker": "test_11_24\\demo11.c",
+              "ToolTip": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo11.c",
+              "RelativeToolTip": "test_11_24\\demo11.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-29T15:03:23.084Z",
+              "WhenOpened": "2024-12-01T15:46:20.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "demo10.c",
+              "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo10.c",
+              "RelativeDocumentMoniker": "test_11_24\\demo10.c",
+              "ToolTip": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo10.c",
+              "RelativeToolTip": "test_11_24\\demo10.c",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-01T15:25:37.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "demo9.c",
+              "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo9.c",
+              "RelativeDocumentMoniker": "test_11_24\\demo9.c",
+              "ToolTip": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo9.c",
+              "RelativeToolTip": "test_11_24\\demo9.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-01T15:16:13.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "demo8.c",
+              "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo8.c",
+              "RelativeDocumentMoniker": "test_11_24\\demo8.c",
+              "ToolTip": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo8.c",
+              "RelativeToolTip": "test_11_24\\demo8.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-01T15:02:04.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "demo7.c",
+              "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo7.c",
+              "RelativeDocumentMoniker": "test_11_24\\demo7.c",
+              "ToolTip": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo7.c",
+              "RelativeToolTip": "test_11_24\\demo7.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-30T04:37:37.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "demo6.c",
+              "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo6.c",
+              "RelativeDocumentMoniker": "test_11_24\\demo6.c",
+              "ToolTip": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo6.c",
+              "RelativeToolTip": "test_11_24\\demo6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-29T18:14:19.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "demo5.c",
+              "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo5.c",
+              "RelativeDocumentMoniker": "test_11_24\\demo5.c",
+              "ToolTip": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo5.c",
+              "RelativeToolTip": "test_11_24\\demo5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-29T15:03:23.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "demo4.c",
               "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo4.c",
               "RelativeDocumentMoniker": "test_11_24\\demo4.c",
@@ -55,12 +155,11 @@
               "RelativeToolTip": "test_11_24\\demo4.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-29T14:46:43.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T14:46:43.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "demo3.c",
               "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo3.c",
               "RelativeDocumentMoniker": "test_11_24\\demo3.c",
@@ -72,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "demo2.c",
               "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo2.c",
               "RelativeDocumentMoniker": "test_11_24\\demo2.c",
@@ -80,12 +179,11 @@
               "RelativeToolTip": "test_11_24\\demo2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-29T12:33:55.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T12:33:55.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "demo1.c",
               "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_11_24\\test_11_24\\demo1.c",
               "RelativeDocumentMoniker": "test_11_24\\demo1.c",
