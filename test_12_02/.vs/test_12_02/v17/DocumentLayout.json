@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_12_02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F25A37A5-1600-46FE-84C9-44EE98733E2A}|test_12_02\\test_12_02.vcxproj|C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_12_02\\test_12_02\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F25A37A5-1600-46FE-84C9-44EE98733E2A}|test_12_02\\test_12_02.vcxproj|solutionrelative:test_12_02\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F25A37A5-1600-46FE-84C9-44EE98733E2A}|test_12_02\\test_12_02.vcxproj|C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_12_02\\test_12_02\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F25A37A5-1600-46FE-84C9-44EE98733E2A}|test_12_02\\test_12_02.vcxproj|solutionrelative:test_12_02\\demo4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25A37A5-1600-46FE-84C9-44EE98733E2A}|test_12_02\\test_12_02.vcxproj|C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_12_02\\test_12_02\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F25A37A5-1600-46FE-84C9-44EE98733E2A}|test_12_02\\test_12_02.vcxproj|solutionrelative:test_12_02\\demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F25A37A5-1600-46FE-84C9-44EE98733E2A}|test_12_02\\test_12_02.vcxproj|C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_12_02\\test_12_02\\demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "demo5.c",
               "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_12_02\\test_12_02\\demo5.c",
               "RelativeDocumentMoniker": "test_12_02\\demo5.c",
@@ -47,15 +47,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "demo4.c",
               "DocumentMoniker": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_12_02\\test_12_02\\demo4.c",
               "RelativeDocumentMoniker": "test_12_02\\demo4.c",
               "ToolTip": "C:\\Users\\Marve1ous\\Desktop\\pg-clanguage-study\\test_12_02\\test_12_02\\demo4.c",
               "RelativeToolTip": "test_12_02\\demo4.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-05T09:29:19.849Z"
+              "WhenOpened": "2024-12-05T09:29:19.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
